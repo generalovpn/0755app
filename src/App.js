@@ -12,7 +12,7 @@ const Settings = ()=> {
   return <h1>Это страница с настройками</h1>;
 };
 const Friends = ()=> {
-  return <h1>Это страница с друзьями</h1>;
+  return <h1>Это страница с друзьями!</h1>;
 };
 
 function App() {
